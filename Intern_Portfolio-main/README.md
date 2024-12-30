@@ -1,11 +1,9 @@
 # CODSOFT_Intern_Portfolio
-Welcome to my Software Engineer Portfolio, a project completed as part of my internship with CODSOFT & EliteTech.
+Welcome to my Software Engineer Portfolio, a project completed as part of my internship with CODSOFT.
 
-Sanika's Portfolio [Live Demo here](https://Sanika0729.github.io/CODSOFT_Intern_Portfolio/)
+Sanika's Portfolio(https://Sanika0729.github.io/CODSOFT_Intern_Portfolio/)
 
 Github Profile [link](https://github.com/Sanika0729/)
-
-![app](assets/image.png) 
 
 # Overview
 This portfolio showcases my skills, projects, and experiences as a software engineer. Crafted using HTML, CSS, Bootstrap, and JavaScript for a responsive and interactive design.
@@ -27,6 +25,5 @@ JavaScript
 
 # Credits:
 Developed by Sanika Zagade
-Internship at CODSOFT & EliteTech
+Internship at CODSOFT
 
-Feel free to reach out for any questions or feedback. Thank you for visiting! 🚀
